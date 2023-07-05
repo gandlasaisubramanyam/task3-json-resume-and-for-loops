@@ -2,12 +2,12 @@ let myResume =
 {
     "basics": {
       "name": "SAI SUBRAMANYAM G",
-      "email": "gandlasai999@gamil.com",
-      "phone": 6300002787,
+      "email": "sai123@gamil.com",
+      "phone": 2738494473,
       "degree": "B.tech",
       "location": {
-        "address": "sreeramulapeta,near icici bank",
-        "postalCode": 515411,
+        "address": "sreeramulapeta,",
+        "postalCode": 515412,
         "city": "anantapur",
         "state": "AndhraPradesh",
         "country": "India"
